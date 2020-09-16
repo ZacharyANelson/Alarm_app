@@ -1,0 +1,1 @@
+enum DeleteDayState { show, hide }
